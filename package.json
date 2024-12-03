@@ -1,0 +1,16 @@
+{
+  "name": "aditiarya",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+  "aditiarya": "./index.js"
+},
+  "keywords": ["Aditi Arya", "37", "AditiArya37"],
+  "author": "Aditi Arya",
+  "license": "ISC",
+  "description": "Aditi Arya - npm package"
+}
